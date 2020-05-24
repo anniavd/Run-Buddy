@@ -8,7 +8,7 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
   }
-
+  /* style header star */
   header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -40,7 +40,9 @@ body {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
-  }
+  }    
+        /* style header end */
+
   /* footer style star*/
   footer {
     background: #fce138;
@@ -84,7 +86,7 @@ body {
   width: 500px;
   color:#024e76;
   position: absolute;
-  bottom: 120 px; /*120*/
+  bottom: 120 px; 
   right: 140px;
    }
 
@@ -135,7 +137,6 @@ body {
     background: #fce138;
   }
  
- /*ggh */
  .section-title {
   font-size: 55px;
   color: #024e76;
